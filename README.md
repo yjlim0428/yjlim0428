@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&fontSize=90&animation=twinkling"/></p>
 <div align="center">
-  <img src="https://gihub-readme-stats.vercel.app/api?username=yjlim0428&theme=dark"/>
+  <img src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api?username=yjlim0428&theme=dark"/>
  </div>
 
 <p align="center">
