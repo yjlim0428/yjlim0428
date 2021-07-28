@@ -2,7 +2,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&fontSize=90&animation=twinkling"/></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yjlim0428&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yjlim0428&theme=graywhite"/>
  </div>
 
 <p align="center">
