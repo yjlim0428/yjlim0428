@@ -38,14 +38,11 @@
 
 
 
-
-
 - 🌱 I’m currently studying about Android and Machine Learning
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/yjlim9898@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjlim9898@gmail.com)](mailto:yjlim9898@gmail.com)
 
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjlim0428&count_bg=%23BC84C2&title_bg=%23807E7E&icon=&icon_color=%23AFAFAF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjlim0428&count_bg=%23ABB8D3&title_bg=%23FFFFFF&icon=linux.svg&icon_color=%23000000&title=✨&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="right">
   
