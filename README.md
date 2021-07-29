@@ -40,7 +40,7 @@
 
 
 
-- 🌱 I’m currently learning about Android and Machin Leaning
+- 🌱 I’m currently studying about Android and Machin Leaning
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/yjlim9898@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjlim9898@gmail.com)](mailto:yjlim9898@gmail.com)
 
 
