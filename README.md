@@ -1,11 +1,12 @@
+
+<!--
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjlim0428&count_bg=%23BC84C2&title_bg=%23807E7E&icon=&icon_color=%23AFAFAF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&fontSize=90&animation=twinkling"/></p>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&fontSize=90&animation=twinkling"/></div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yjlim0428&theme=flag-india"/>
- </div>
+
+ <!--
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -17,20 +18,38 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 </p>
-
+-->
 
 
 <!--
-**yjlim0428/yjlim0428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align=center>
+  
+  # Hi there👋
+  
+</div>
 -->
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/rosyoonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rosyoonn" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+- 🌱 I’m currently learning about Android and Machin Leaning
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/yjlim9898@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjlim9898@gmail.com)](mailto:yjlim9898@gmail.com)
+
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjlim0428&count_bg=%23BC84C2&title_bg=%23807E7E&icon=&icon_color=%23AFAFAF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+<div align="right">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=yjlim0428&theme=flag-india"/>
+   
+</div>
+ 
