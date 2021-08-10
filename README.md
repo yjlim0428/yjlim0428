@@ -47,10 +47,9 @@ https://hits.seeyoufarm.com/ 여기 힛 사이트 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjlim0428&count_bg=%23ABB8D3&title_bg=%23FFFFFF&icon=linux.svg&icon_color=%23000000&title=✨&edge_flat=false)](https://hits.seeyoufarm.com)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjlim0428&hide=python,java,c&theme=tokyonight)
 
-<div align="right">
-  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjlim0428&theme=flag-india"/>
   <img src="https://github-readme-stats.vercel.app/api?username=yjlim0428&theme=flag-india"/>
    
 </div>
