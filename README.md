@@ -4,7 +4,7 @@
 -->
 <!--https://rahuldkjain.github.io/gh-profile-readme-generator/ 여기 폼사이트 
 https://hits.seeyoufarm.com/ 여기 힛 사이트 -->
-<div align=center><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&fontSize=90&animation=twinkling"/></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&fontSize=90&animation=twinkling"/></div>
 
 
  <!--
@@ -30,16 +30,21 @@ https://hits.seeyoufarm.com/ 여기 힛 사이트 -->
 </div>
 -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left">
-<a href="https://instagram.com/rosyoonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rosyoonn" height="30" width="40" /></a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="react" width="20" height="20"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css5" width="20" height="20"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> 
+</p>
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://instagram.com/rosyoonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rosyoonn" height="20" width="20" /></a>
 </p>
 
 
 
-- 🌱 I’m currently studying about Android and Machine Learning
+- 🌱 I’m currently studying about web development
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/yjlim9898@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjlim9898@gmail.com)](mailto:yjlim9898@gmail.com)
 
 
@@ -47,8 +52,8 @@ https://hits.seeyoufarm.com/ 여기 힛 사이트 -->
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjlim0428&theme=flag-india"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yjlim0428&theme=flag-india"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjlim0428&theme=flag-india" height="180" width="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yjlim0428&theme=flag-india" width="230"/>
    
 </div>
  
