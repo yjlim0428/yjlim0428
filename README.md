@@ -52,7 +52,7 @@ https://hits.seeyoufarm.com/ 여기 힛 사이트 -->
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjlim0428&theme=flag-india" height="180" width="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjlim0428&theme=flag-india" height="220" width="220"/>
   <img src="https://github-readme-stats.vercel.app/api?username=yjlim0428&theme=flag-india" width="230"/>
    
 </div>
