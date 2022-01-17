@@ -37,9 +37,9 @@ https://hits.seeyoufarm.com/ 여기 힛 사이트 -->
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css5" width="20" height="20"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> 
 </p>
-<h4 align="left">Connect with me:</h4>
+<!-- <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://instagram.com/rosyoonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rosyoonn" height="20" width="20" /></a>
+<a href="https://instagram.com/rosyoonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rosyoonn" height="20" width="20" /></a> -->
 </p>
 
 
