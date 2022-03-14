@@ -4,7 +4,7 @@
 -->
 <!--https://rahuldkjain.github.io/gh-profile-readme-generator/ 여기 폼사이트 
 https://hits.seeyoufarm.com/ 여기 힛 사이트 -->
-<div align=center><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&fontSize=90&animation=twinkling"/></div>
+<!-- <div align=center><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&fontSize=90&animation=twinkling"/></div> -->
 
 
  <!--
@@ -32,10 +32,12 @@ https://hits.seeyoufarm.com/ 여기 힛 사이트 -->
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="react" width="20" height="20"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css5" width="20" height="20"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="react" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css5" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
 </p>
 <!-- <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -50,12 +52,5 @@ https://hits.seeyoufarm.com/ 여기 힛 사이트 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjlim0428&count_bg=%23ABB8D3&title_bg=%23FFFFFF&icon=linux.svg&icon_color=%23000000&title=✨&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjlim0428&theme=flag-india" height="250" width="250"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yjlim0428&theme=flag-india" width="350"/>
-   
-</div>
- 
  
  
