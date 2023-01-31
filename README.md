@@ -66,6 +66,14 @@
 
 <div align="center">
 &nbsp
+&nbsp
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjlim0428&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+&nbsp
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjlim0428&count_bg=%23ABB8D3&title_bg=%23FFFFFF&icon=linux.svg&icon_color=%23000000&title=✨&edge_flat=false)](https://hits.seeyoufarm.com)
 
